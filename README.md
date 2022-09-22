@@ -1,4 +1,4 @@
-Hi 👋 My name is Peter Parker
+Hi 👋 My name is Owusu Dennis Prah
 =============================
 Web Developer
 -------------
