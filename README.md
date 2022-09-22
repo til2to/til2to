@@ -1,9 +1,17 @@
 Hi 👋 My name is Peter Parker
 =============================
+Web Developer
+-------------
+
+- ✉️  You can contact me at [padwusup@gmail.com](mailto:padwusup@gmail.com)
+- 🤝  I'm open to collaborating on interesting JavaScript projects
+- ⚡ Fun fact: ...
+
+
+<!--
 
 Web Developer
 -------------
-<!--
 
 **til2to/til2to** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,5 +26,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 -->
