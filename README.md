@@ -3,7 +3,9 @@ Hi 👋 My name is Owusu Dennis Prah
 Web Developer
 -------------
 
+- 🌍  I'm based in Accra, Ghana
 - ✉️  You can contact me at [padwusup@gmail.com](mailto:padwusup@gmail.com)
+- 💞️ I’m looking to collaborate on React projects
 - 🤝  I'm open to collaborating on interesting JavaScript projects
 - ⚡ Fun fact: ...
 
