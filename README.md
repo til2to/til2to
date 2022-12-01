@@ -1,4 +1,4 @@
-Hi 👋 My name is Owusu Dennis Prah
+Hi 👋 My name is Owusu Dennis
 =============================
 Web Developer
 -------------
