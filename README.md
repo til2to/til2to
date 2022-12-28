@@ -1,4 +1,4 @@
-[![](github-profile-template.netlify.app)](github-profile-template.netlify.app)<!-- If you want the template for my gif, email me! -->
+[![](https://raw.githubusercontent.com/adamalston/adamalston/master/profile.gif)](https://github-profile-template.netlify.app/)<!-- If you want the template for my gif, email me! -->
 
 ### Languages
 
