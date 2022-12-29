@@ -12,7 +12,7 @@
 
 ✨
  ```javascript
-const Owusu = {
+const Owusu_Dennis = {
   pronouns: "he" | "him",
   code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
   tools: [React, Redux, Node, Styled-Components, Jest, Docker],
