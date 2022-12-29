@@ -1,39 +1,60 @@
+[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm (Dennis Owusu(111|Dennis Prah)|https://raymond.li)" title="👋 Hi there! I'm (Dennis Owusu(111|nd Prah)|https://raymond.li)"/>](https://raymond.li/)
 
-## Things I use on a daily basis
+![visitors](https://vbr.wocr.tk/badge?page_id=Raymo111.Raymo111&color=00cf00)
 
-<p align="left">  
-<a href="https://github.com/harish-sethuraman/readme-components">
- <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe">  
- </a>
-   <a href="https://github.com/harish-sethuraman/readme-components">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=typescript&svgfill=2d79c7">
-</a>
-  <a href="https://github.com/harish-sethuraman/readme-components">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=webpack&svgfill=8ed5fa">
-</a>
+## My Skills 💻
+
+### Front-end Languages & Frameworks
+
+<p align="left">
  <a href="https://github.com/harish-sethuraman/readme-components">
- <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=node.js&svgfill=659b60">
-</a>
-<a href="https://github.com/harish-sethuraman/readme-components">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=ember.js&svgfill=df5c43">  
-</a>
-<a href="https://github.com/harish-sethuraman/readme-components">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=sass&svgfill=cd6799">
-</a>
-
-<a href="https://github.com/harish-sethuraman/readme-components">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=f6df1c">
-</a>
-<a href="https://github.com/harish-sethuraman/readme-components">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=CSS3&svgfill=028dd1">
-</a>
-<a href="https://github.com/harish-sethuraman/readme-components">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github">
-</a>
+  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=f6df1c">
+ </a>
+ <a href="https://github.com/harish-sethuraman/readme-components">
+  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe">  
+ </a>
+ <a href="https://github.com/harish-sethuraman/readme-components">
+  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=redux&svgfill=2d79c7&animation=spin">
+ </a>
+ <a href="https://github.com/harish-sethuraman/readme-components">
+  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=webpack&svgfill=8ed5fa&animation=spin">
+ </a>
+  <a href="https://github.com/harish-sethuraman/readme-components">
+  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=sass&svgfill=cd6799">
+ </a>
 </p>
 
+### Back-end Languages & Frameworks
+ 
+<p align="left">
+ <a href="https://github.com/harish-sethuraman/readme-components">
+  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=java&svgfill=8ed5fa">  
+ </a>
+ <a href="https://github.com/harish-sethuraman/readme-components">
+  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=python">  
+ </a>
+  <a href="https://github.com/harish-sethuraman/readme-components">
+  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=ruby&svgfill=cd6799">
+ </a>
+</p>
+ 
+### Server-side
+<p align="left">
+ <a href="https://github.com/harish-sethuraman/readme-components">
+  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=node.js&svgfill=659b60">
+ </a>
+ <a href="https://github.com/harish-sethuraman/readme-components">
+ <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=flask">  
+ </a>
+</p>
+### Other Technologies
 
-### Languages
+<p align="left">  
+ 
+ 
+ 
+</p>
+
 
 <p align="center">
  <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="65" height="65"/> 
