@@ -1,4 +1,6 @@
-
+<p align="center">
+ <a href=""><img src="github-profile.png" height="250" width="100%">
+</a>
 
 ## My Skills 💻
 
