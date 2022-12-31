@@ -12,6 +12,7 @@
 
 ✨
  ```javascript
+const title: "Full Stack Developer"
 const Owusu_Dennis = {
   pronouns: "he" | "him",
   coming_soon: [Typescript, Angular, Docker, Kubernetes],
