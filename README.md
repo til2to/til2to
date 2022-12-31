@@ -14,11 +14,11 @@
  ```javascript
 const Owusu_Dennis = {
   pronouns: "he" | "him",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  tools: [React, Redux, Node, Styled-Components, Jest, Docker],
+  coming_soon: [Typescript, Angular, Docker, Kubernetes],
+  tools: [React, Redux, Node, Styled-Components],
   architecture: ["microservices", "design system pattern"],
   techCommunities: {
-     furum: "stack overflow",
+     forum: "stack overflow",
      mentor: "Marfo David"
   },
  challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
