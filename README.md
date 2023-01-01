@@ -33,7 +33,7 @@ const Owusu_Dennis = {
 <!-- &svgfill=cd6799 -->
 <!--  &svgfill=cd6799 -->
 <p align="left">
- <a href="https://github.com/harish-sethuraman/readme-components">
+ <a href="#">
   <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=f6df1c" height="50">
  </a>
  <a href="https://github.com/harish-sethuraman/readme-components">
