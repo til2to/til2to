@@ -16,22 +16,23 @@ const title: "Full Stack Developer"
 const Owusu_Dennis = {
   pronouns: "he" | "him",
   coming_soon: [Typescript, Angular, Docker, Kubernetes],
-<!--   tools: [React, Redux, Node, Styled-Components], -->
+  styled-component: "100%",
+  skills: "check below",
   architecture: ["microservices", "design system pattern"],
   techCommunities: {
      forum: "stack overflow",
      mentor: "Marfo David"
   },
  challenge: "I am doing the #100DaysOfCode challenge focused on Python and Javascript",
- onGoing: "IBM Data Science Professional Certificate on Coursera",
+ onGoing_certification: "IBM Data Science Professional Certificate on Coursera",
+ certification: "AWS" 
 }
 ```
  
 ## ✨ Skills 💻
 
 ### Front-end Languages & Frameworks
-<!-- &svgfill=cd6799 -->
-<!--  &svgfill=cd6799 -->
+ 
 <p align="left">
  <a href="#">
   <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=f6df1c" height="50">
