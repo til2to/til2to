@@ -36,22 +36,22 @@ const Owusu_Dennis = {
  <a href="#">
   <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=f6df1c" height="50">
  </a>
- <a href="https://github.com/harish-sethuraman/readme-components">
+ <a href="#">
   <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe" height="50">  
  </a>
- <a href="https://github.com/harish-sethuraman/readme-components">
+ <a href="#">
   <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=redux&svgfill=2d79c7&animation=spin" height="50">
  </a>
- <a href="https://github.com/harish-sethuraman/readme-components">
+ <a href="#">
   <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=webpack&svgfill=8ed5fa&animation=spin" height="50">
  </a>
- <a href="https://github.com/harish-sethuraman/readme-components">
+ <a href="#">
   <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=sass&svgfill=cd6799" height="50">
  </a>
- <a href="https://github.com/harish-sethuraman/readme-components">
+ <a href="#">
   <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=CSS3&svgfill=264de4" height="50">
  </a>
- <a href="https://github.com/harish-sethuraman/readme-components">
+ <a href="#">
   <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=HTML5&svgfill=e34c26" height="50">
  </a>
 </p>
@@ -59,29 +59,29 @@ const Owusu_Dennis = {
 ### Back-end Languages & Frameworks
  
 <p align="left">
- <a href="https://github.com/harish-sethuraman/readme-components">
+ <a href="#">
   <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=java&svgfill=f89820" height="50">  
  </a>
- <a href="https://github.com/harish-sethuraman/readme-components">
+ <a href="#">
   <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=python&svgfill=4584b6" height="50">  
  </a>
-  <a href="https://github.com/harish-sethuraman/readme-components">
+  <a href="#">
   <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=ruby&svgfill=f91401&animation=spin" height="50">
  </a>
- <a href="https://github.com/harish-sethuraman/readme-components">
+ <a href="#">
   <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=SQL" height="50">
  </a>
 </p>
  
 ### Server-side
 <p align="left">
- <a href="https://github.com/harish-sethuraman/readme-components">
+ <a href="#">
   <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=node.js&svgfill=659b60" height="50">
  </a>
- <a href="https://github.com/harish-sethuraman/readme-components">
+ <a href="#">
   <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=flask" height="50">  
  </a>
- <a href="https://github.com/harish-sethuraman/readme-components">
+ <a href="#">
   <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=express.js&svgfill=3c873a" height="50">  
  </a>
 </p>
@@ -89,13 +89,13 @@ const Owusu_Dennis = {
 ### Databases
 
 <p align="left">
- <a href="https://github.com/harish-sethuraman/readme-components">
+ <a href="#">
   <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=mongodb&svgfill=3c873a" height="50">  
  </a>
- <a href="https://github.com/harish-sethuraman/readme-components">
+ <a href="#">
   <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=mysql&svgfill=00758f" height="50">
  </a>
- <a href="https://github.com/harish-sethuraman/readme-components">
+ <a href="#">
   <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=postgresql&svgfill=336791" height="50">  
  </a>
 </p>
@@ -103,21 +103,21 @@ const Owusu_Dennis = {
 ### Other Technologies
 
 <p align="left"> 
- <a href="https://github.com/harish-sethuraman/readme-components">
+ <a href="#">
   <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Github" height="50">
  </a>
- <a href="https://github.com/harish-sethuraman/readme-components">
+ <a href="#">
   <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=graphql&svgfill=e535ab&animation=spin" height="50">
  </a>
- <a href="https://github.com/harish-sethuraman/readme-components">
+ <a href="https://www.credly.com/badges/60a102d5-307a-48e6-8e51-e75ef84ec825">
   <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=AmazonAws" height="50">
  </a>
- <a href="https://github.com/harish-sethuraman/readme-components">
+ <a href="#">
   <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=RestApi" height="50">
  </a>
 </p>
 
-### Badges
+### Certifications & Badges
 
 [AWS](https://www.credly.com/badges/60a102d5-307a-48e6-8e51-e75ef84ec825)
 ""
