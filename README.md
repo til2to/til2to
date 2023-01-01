@@ -22,7 +22,8 @@ const Owusu_Dennis = {
      forum: "stack overflow",
      mentor: "Marfo David"
   },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+ challenge: "I am doing the #100DaysOfCode challenge focused on Python and Javascript",
+ onGoing: "IBM Data Science Professional Certificate on Coursera",
 }
 ```
  
