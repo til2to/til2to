@@ -25,7 +25,7 @@ const Owusu_Dennis = {
   },
  challenge: "I am doing the #100DaysOfCode challenge focused on Python and Javascript",
  onGoing_certification: "IBM Data Science Professional Certificate on Coursera",
- certification: "AWS Certified Cloud Practitioner "
+ certification: "AWS Certified Cloud Practitioner"
 }
 ```
  
