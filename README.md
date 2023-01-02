@@ -25,7 +25,7 @@ const Owusu_Dennis = {
   },
  challenge: "I am doing the #100DaysOfCode challenge focused on Python and Javascript",
  onGoing_certification: "IBM Data Science Professional Certificate on Coursera",
- certification: "AWS" 
+ certification: "AWS Certified Cloud Practitioner "
 }
 ```
  
@@ -120,7 +120,7 @@ const Owusu_Dennis = {
 
 ### Certifications & Badges
 
-[AWS](https://www.credly.com/badges/60a102d5-307a-48e6-8e51-e75ef84ec825)
+[AWS Cloud Practitioner](https://www.credly.com/badges/60a102d5-307a-48e6-8e51-e75ef84ec825)
 ""
 [Python for Data Science and AI](https://www.credly.com/badges/79ed795d-5ff0-4150-adae-815e5a84a194)
 
