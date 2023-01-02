@@ -91,7 +91,7 @@ const Owusu_Dennis = {
 
 <p align="left">
  <a href="#">
-  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=mongodb&svgfill=3c873a" height="50">  
+  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=mongoDb&svgfill=3c873a" height="50">  
  </a>
  <a href="#">
   <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=mysql&svgfill=00758f" height="50">
