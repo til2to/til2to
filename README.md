@@ -16,7 +16,7 @@ const title: "Full Stack Developer"
 const Owusu_Dennis = {
   pronouns: "he" | "him",
   coming_soon: [Typescript, Angular, Docker, Kubernetes],
-  styled-component: "100%",
+  styled-component: 100%,
   skills: "check below",
   architecture: ["microservices", "design system pattern"],
   techCommunities: {
