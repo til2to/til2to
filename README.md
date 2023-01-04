@@ -120,7 +120,7 @@ const Owusu_Dennis = {
 
 ### Certifications & Badges
 
-[AWS Cloud Practitioner](https://www.credly.com/badges/60a102d5-307a-48e6-8e51-e75ef84ec825)
+[AWS Cloud Practitioner](https://1drv.ms/b/s!AkeUmQk6EBtLgS9VwXnnQcj_4hVU?e=puHyHP)
 ""
 [Python for Data Science and AI](https://www.credly.com/badges/79ed795d-5ff0-4150-adae-815e5a84a194)
 
