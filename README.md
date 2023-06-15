@@ -63,11 +63,14 @@ const Owusu_Dennis = {
 ### Back-end Languages & Frameworks
  
 <p align="left">
+  <a href="#">
+  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=python&svgfill=4584b6" height="50">  
+ </a>
  <a href="#">
   <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=java&svgfill=f89820" height="50">  
  </a>
  <a href="#">
-  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=python&svgfill=4584b6" height="50">  
+  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=typescript&svgfill=4584b6" height="50">  
  </a>
   <a href="#">
   <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=ruby&svgfill=f91401&animation=spin" height="50">
