@@ -15,7 +15,7 @@
 const title: "Full Stack Developer"
 const Owusu_Dennis = {
   pronouns: "he" | "him",
-  coming_soon: [Typescript, Angular, Docker, Kubernetes],
+  coming_soon: [Angular, Kubernetes],
   styled-component: 100%,
   skills: "check below",
   architecture: ["microservices", "design system pattern"],
@@ -36,6 +36,9 @@ const Owusu_Dennis = {
 <p align="left">
  <a href="#">
   <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=f6df1c" height="50">
+ </a>
+ <a href="#">
+  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=typescript&svgfill=f6df1c" height="50">
  </a>
  <a href="#">
   <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe" height="50">  
